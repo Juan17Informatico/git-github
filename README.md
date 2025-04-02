@@ -62,7 +62,7 @@ Empaqueta tu proyecto.
 python setup.py sdist bdist_wheel
 ```
 
-AquÃ­ es donde estÃ¡n todos los archivos de esta carpeta y donde la clase comenzarÃ¡.
+AquÃ­ es donde están todos los archivos de esta carpeta y donde la clase comenzarÃ¡.
 
 Puedes verla [aquÃ­](/Paquete/)
 
